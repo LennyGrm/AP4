@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MenuRechercher"
+        android:title="@string/txtMenuRechercher" />
+    <item
+        android:id="@+id/MenuPresentation"
+        android:title="@string/txtMenuPresentation" />
+    <item
+        android:id="@+id/MenuMagasin"
+        android:title="@string/txtMenuMagasin" />
+    <item
+        android:id="@+id/MenuReservation"
+        android:title="@string/txtMenuReserver" >
+        <menu >
+            <item
+                android:id="@+id/MenuContact"
+                android:title="@string/txtMenuContact" />
+            <item
+                android:id="@+id/MenuEquipe"
+                android:title="@string/txtMenuEquipe" />
+            <item
+                android:id="@+id/MenuCroissance"
+                android:title="@string/txtMenuCroissance" />
+        </menu>
+    </item>
+</menu>

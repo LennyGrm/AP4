@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AP4</string>
+    <string name="txtBtnPolicier">Policier</string>
+    <string name="txtBtnDocu">Docu</string>
+    <string name="txtBtnFiction">Fiction</string>
+    <string name="txtBtnSerie">Serie</string>
+    <string name="txtMenuRechercher">Rechercher un Film</string>
+    <string name="txtMenuReserver">Réserver un Film</string>
+    <string name="txtMenuMagasin">Magasin</string>
+    <string name="txtMenuPresentation">Présentation</string>
+    <string name="txtMenuContact">Contact</string>
+    <string name="txtMenuEquipe">Equipe</string>
+    <string name="txtMenuCroissance">Croissance</string>
+    <string name="txtListePoliciers">Liste des Films Policiers</string>
+    <string name="txtListeSeries">Liste des Séries</string>
+    <string name="txtListeDocus">Liste des Films Documentaires</string>
+    <string name="txtListeFictions">Liste des Films de Fiction</string>
+    <string name="txtTitreDemande">Titre Demandé</string>
+    <string name="txtReservation">Réservation</string>
+    <string name="txtFilmReserve">Voulez-vous réserver le film "Avatar" ?</string>
+    <string name="txtBtnConfirmer">Confirmer</string>
+    <string name="txtBtnAnnuler">Annuler</string>
+    <string name="txtEditRecherche">Entrer un titre</string>
+
+
+</resources>
